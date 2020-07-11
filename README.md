@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-![# Helloooo 👋]https://github.com/Vedantsahai18/Vedantsahai18/blob/master/maxresdefault.jpg)
+![# Helloooo 👋](https://github.com/Vedantsahai18/Vedantsahai18/blob/master/maxresdefault.jpg)
 
 My name is Vedant Sahai
 -
 
-- 🔭  I have a keen interest in Artificial Intelligence, Reinforcement Learning and Deep Learning
+- 🔭  I have a keen interest in Artificial Intelligence, Reinforcement Learning, Deep Learning and Blockchain
 - ⚽️🏸🏏  I love football, badminton,cricket and I support FC Barcelona (GOBARCA)
 - 🎧  I like listening to alternative music
 - 👨‍🏫 I like  sharing knowledge 😄
-- 🤔  I'd like to get some help with training optimizations, model evaluations in Deep Learning and in RASA Chatbot Framework
-- 💬  You can ask me about badminton, AI or anything really!
+- 🤔  I'd like to get some help with blockchain, NAtural Language Processing, model evaluations in Deep Learning and in RASA Chatbot Framework
+- 💬  You can ask me about badminton, AI , DL or anything really!
 - 📫  How to reach me:
 
 [1]: https://twitter.com/VedantSahai18
