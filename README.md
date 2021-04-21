@@ -4,13 +4,13 @@
 
 My name is Vedant Sahai
 -
--  I have been AI Research Intern at Sync Energy Inc, USA for nearly a year
+-  I have been AI Research Intern at Sync Energy Inc, USA for nearly a year ( Still there though !!)
 - 🔭  I have a keen interest in Artificial Intelligence, Reinforcement Learning, Deep Learning and Blockchain
 - ⚽️🏸🏏  I love football, badminton,cricket and I support FC Barcelona (GOBARCA)
 - 🎧  I like listening to alternative music
 - 👨‍🏫 I like  sharing knowledge 😄
 - 🤔  I'd like to get some help with blockchain, Natural Language Processing, model evaluations in Deep Learning and in RASA Chatbot Framework
-- 💬  You can ask me about badminton, AI , DL or anything really!
+- 💬  You can ask me about anything related to Badminton, AI , DL , NLP or anything really!
 - 📫  How to reach me:
 
 [1]: https://twitter.com/VedantSahai18
