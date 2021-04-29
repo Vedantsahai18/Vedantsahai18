@@ -1,6 +1,6 @@
 ![My Banner](https://github.com/Vedantsahai18/Vedantsahai18/blob/master/maxresdefault.jpg)
 <h1 align="center">Hi 👋, I'm Vedant Sahai</h1>
-<h3 align="center">A highly driven computer Science graduate in the area of  AI and Blockchain </h3>
+<h3 align="center">A highly driven Computer Science graduate in the area of  AI and Blockchain </h3>
 
 - 🔭 I’m currently working on **Natural Language Processing and Deep Learning techniques**
 
