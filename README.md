@@ -10,7 +10,7 @@
 
 - 💬 Ask me anything about **AI , Frontend or UAVs**
 
-- ⚽️🏸🏏  I like I love football, badminton,cricket and I support FC Barcelona (GOBARCA)
+- ⚽️🏸🏏  I love football, badminton,cricket and I support FC Barcelona (GOBARCA)
 
 - 📫 How to reach me:
 
