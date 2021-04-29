@@ -34,7 +34,7 @@
 <td style="text-align:center"> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="express" width="35" height="35"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="35" height="35"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="35" height="35"style="background:white;" /> </a>
+<a href="https://www.djangoproject.com/" target="_blank" style="background: white;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="35" height="35"  /> </a>
 </td>
 </tr>
 </body>
@@ -44,7 +44,7 @@
 <tr>
 <td style="text-align:center">
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/> </a>
-<a href="https://keras.io/" target="_blank"> <img src="https://en.wikipedia.org/wiki/Keras#/media/File:Keras_logo.svg" alt="keras" width="35" height="35"/> </a>
+<a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="35" height="35"/> </a>
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg" alt="pandas" width="35" height="35"/> </a>
 <a href="https://numpy.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="35" height="35"/> </a>
