@@ -32,8 +32,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a>
 </td>
 <td style="text-align:center"> 
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="35" height="35"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg" alt="flask" width="35" height="35"/></a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://en.wikipedia.org/wiki/React_(JavaScript_library)#/media/File:React-icon.svg" alt="express" width="35" height="35"/> </a>
+<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://miro.medium.com/max/1200/1*Q5EUk28Xc3iCDoMSkrd1_w.png" alt="flask" width="35" height="35"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="35" height="35"/> </a>
 </td>
 </tr>
