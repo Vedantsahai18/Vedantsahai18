@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **Natural Language Processing and Deep Learning techniques**
 
-- 🌱 I’m currently learning **Blockchain, Image Processing and React**
+- 🌱 Currently learning **Image Processing and AWS**
 
-- 👯 I’m looking to collaborate on **Artifical Intelligence or Computer Vision projects**
+- 👯 I’m looking to collaborate on **Natural Language Processing or Model Building projects**
 
-- 💬 Ask me anything about **AI , Frontend or UAVs**
+- 💬 Ask me anything about **AI , Frontend or Badminton**
 
 - ⚽️🏸🏏  I love football, badminton,cricket and I support FC Barcelona (GOBARCA)
 
