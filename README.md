@@ -1,8 +1,10 @@
 ![My Banner](https://github.com/Vedantsahai18/Vedantsahai18/blob/master/maxresdefault.jpg)
 <h1 align="center">Hi 👋, I'm Vedant Sahai</h1>
-<h3 align="center">A highly driven Computer Science graduate in the area of  AI and Blockchain </h3>
+<h3 align="center">A highly driven Computer Science Engineer seeking opportunities where I can expedite my knowledge in Deep Learning and Natural Language Processing , and use my adroitness as a developer to democratize AI and enable most of humanity to enjoy its fruits </h3>
 
-- 🔭 I’m currently working on **Natural Language Processing and Deep Learning techniques**
+- 🔭 Working with **Plexflo LLC , USA** as an **AI Product Manager**
+ 
+- 🔭 I’m currently working on **Natural Language Processing and Deep Learning techniques** in the **Smart Grid Industry**
 
 - 🌱 Currently learning **Image Processing and AWS**
 
