@@ -4,7 +4,7 @@
 
 - 🔭 Working with **Plexflo , USA** as an **AI Product Manager**
  
-- 🔭 I’m currently working on **Natural Language Processing and Deep Learning techniques** in the **Smart Grid, Renewable Energy ** and **Electric Vehicle Industries**
+- 🔭 I’m currently working on **Natural Language Processing and Deep Learning techniques** in the **Smart Grid, Renewable Energy** and **Electric Vehicle Industries**
 
 - 🌱 Currently learning **Time Series, Segmentation and AWS**
 
