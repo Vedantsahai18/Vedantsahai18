@@ -1,18 +1,18 @@
 ![My Banner](https://github.com/Vedantsahai18/Vedantsahai18/blob/master/maxresdefault.jpg)
 <h1 align="center">Hi 👋, I'm Vedant Sahai</h1>
-<h3 align="center">A highly driven Computer Science Engineer seeking opportunities where I can expedite my knowledge in Deep Learning and Natural Language Processing , and use my adroitness as a developer to democratize AI and enable most of humanity to enjoy its fruits </h3>
+<h3 align="center">A highly driven Computer Science Engineer always seeking opportunities where I can expedite my knowledge in Software Development, Deep Learning and Natural Language Processing , and use my adroitness as a developer to democratize AI and enable most of humanity to enjoy its fruits. </h3>
 
 - 🔭 Working with **Plexflo , USA** as an **AI Product Manager**
  
 - 🔭 I’m currently working on **Natural Language Processing and Deep Learning techniques** in the **Smart Grid, Renewable Energy** and **Electric Vehicle Industries**
 
-- 🌱 Currently learning **Time Series, Segmentation and AWS**
+- 🌱 Currently learning **Time Series, Segmentation, and AWS**
 
 - 👯 I’m looking to collaborate on **Natural Language Processing or Deep Learningn Model Building projects**
 
 - 💬 Ask me anything about **AI , Frontend or Management**
 
-- ⚽️🏸🏏  I love football, badminton,cricket and I support FC Barcelona (GOBARCA)
+- ⚽️🏸🏏  I love football, badminton, and cricket and I support FC Barcelona (GOBARCA)
 
 - 📫 How to reach me:
 
