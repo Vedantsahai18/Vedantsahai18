@@ -4,7 +4,7 @@
 
 - Currently a CSE Master's student @**The Pennsylvania State University**
 
-- 🔭 Worked as an *AI/ML Summer Assosciate* @**JP Morgan and CHase***. Previously worked @ **Plexflo** as an **AI Product Manager**
+- 🔭 Worked as an *AI/ML Summer Assosciate '23* @**JP Morgan and Chase***. Previously worked @ **Plexflo** as an **AI Product Manager**
  
 - 🔭 I’m currently working on **Natural Language Processing and Deep Learning techniques**
 
