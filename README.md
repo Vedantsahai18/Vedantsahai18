@@ -1,4 +1,4 @@
-![My Banner]([https://github.com/Vedantsahai18/Vedantsahai18/blob/master/profileimage.png](https://github.com/Vedantsahai18/vedantsahai18.github.io/blob/new-website/public/images/hero.png))
+![My Banner](https://github.com/Vedantsahai18/vedantsahai18.github.io/blob/new-website/public/images/hero.png)
 
 <h1 align="center">Hi 👋, I'm Vedant Sahai</h1>
 <h3 align="center">Machine Learning Engineer | AI Enthusiast | Passionate about Building Scalable Solutions</h3>
