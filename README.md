@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantsahai18&label=Profile%20views&color=0e75b6&style=flat" alt="vedantsahai18" /> </p>
 
-- 🔭 I’m currently working as a **Machine Learning Engineer** at [Julep AI](https://github.com/julep-ai/julep), enhancing infrastructure and optimizing AI-driven workflows.
+- 🔭 I’m currently working as a **AI Engineer** at [Distyl AI]([https://github.com/julep-ai/julep](https://distyl.ai/)), enhancing infrastructure and optimizing AI-driven workflows.
 
 - 🌱 I’m currently learning **Generative AI, Agentic Frameworks, and Large Language Models (LLMs)**.
 
