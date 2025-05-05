@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantsahai18&label=Profile%20views&color=0e75b6&style=flat" alt="vedantsahai18" /> </p>
 
-- 🔭 I’m currently working as a **AI Engineer** at [Distyl AI](https://github.com/julep-ai/julep](https://distyl.ai/)), enhancing infrastructure and optimizing AI-driven workflows.
+- 🔭 I’m currently working as a **AI Engineer** at [Distyl AI](https://distyl.ai/), enhancing infrastructure and optimizing AI-driven workflows.
 
 - 🌱 I’m currently learning **Generative AI, Agentic Frameworks, and Large Language Models (LLMs)**.
 
-- 💼 Previously worked at **JP Morgan Chase** as an AIML Summer Associate, developing an **XGBoost**-based transaction detection system and a **TabNet** challenger model.
+- 💼 Previously worked at **[Julep AI](https://julep.ai/)** as an ML Engineer, developing **AI Infra** to run AI based workflows.
 
 - 👨‍💻 My key projects include building a **Meter Data Management System** (MDMS) with latency under 90ms at **Plexflo** and a **Datacertus Software** at **Datcertus**.
 
